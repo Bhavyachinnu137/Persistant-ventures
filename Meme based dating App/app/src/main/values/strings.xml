@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">MemeMate</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="add">Add</string>
+    <string name="memes">Memes</string>
+    <string name="matches">Matches</string>
+    <string name="friends">Friends</string>
+    <string name="top">Top</string>
+
+    <string name="user_no_memes">You haven\'t added any memes :(</string>
+
+    <!--Register and Login Strings-->
+    <string name="signupalter">"New user? Sign up here!"</string>
+    <string name="loginalter">"Already have an account?"</string>
+    <string name="signup">"SIGN IN"</string>
+    <string name="login">"LOG IN"</string>
+
+    <!-- NavigationView -->
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="reload">Reload</string>
+    <string name="add_spot_to_first">Add spot to first</string>
+    <string name="add_spot_to_last">Add spot to last</string>
+    <string name="remove_spot_from_first">Remove spot from first</string>
+    <string name="remove_spot_from_last">Remove spot from last</string>
+    <string name="replace_first_spot">Replace first spot</string>
+    <string name="swap_first_for_last">Swap first for last</string>
+    <string name="title_activity_main2_activitydff">Main2Activitydff</string>
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id">2672329152795068</string>
+    <string name="fb_login_protocol_scheme">fb2672329152795068</string>
+
+    <!--Default meme-->
+    <string name="default_meme">https://img.pngio.com/pepe-the-frogs-creator-wants-to-take-pepe-back-from-the-alt-right-inverse-pepe-the-frog-png-1500_946.png?fbclid=IwAR0WUIFOWaU7w4p_HP0l4RQSfI6piobZvGT6dh_pw-Q-5p5aR2AhHdj7D8U</string>
+
+    <!--Default location-->
+    <string name="default_user_location">DefaultLocation</string>
+
+    <!-- Demo memes -->
+    <string-array name="memes">
+        <item>https://i.redd.it/esj4i04bcsw21.png</item>
+        <item>https://i.redd.it/28tx1dduxtw21.jpg</item>
+        <item>https://i.redd.it/ysxhq7uagzw21.jpg</item>
+        <item>https://i.redd.it/r8vhqjw3dzw21.jpg</item>
+        <item>https://i.redd.it/aciwa0bkvxw21.png</item>
+        <item>https://i.redd.it/994oe7mk7zw21.jpg</item>
+        <item>https://i.redd.it/zcmhjg1zgxw21.jpg</item>
+        <item>https://i.redd.it/529mjgxyexw21.jpg</item>
+    </string-array>
+    <string name="title_activity_full_meme">FullMemeActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="profile_name">Profile_Name</string>
+    <string name="profile_location">Profile_Location</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="ok">Yes</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="switch_view_button">Switch view button</string>
+    <string name="settings_button">Settings button</string>
+    <string name="add_new_meme">Add new meme</string>
+    <string name="search">Search</string>
+    <string name="confirm">Confirm</string>
+    <string name="feed">Feed</string>
+    <string name="dummy">DUMMY</string>
+    <string name="inbox">Inbox</string>
+    <string name="title">title</string>
+    <string name="pick_meme">Pick Meme</string>
+    <string name="upload">Upload</string>
+    <string name="you_swiped_through_all_existing_memes">You swiped through all existing memes</string>
+    <string name="post_a_new_meme">Post a new meme</string>
+    <string name="delete_your_account">Delete your account</string>
+    <string name="log_out">Log out</string>
+    <string name="reset_password">Reset password</string>
+    <string name="change_your_email">Change your email</string>
+    <string name="settings">SETTINGS</string>
+    <string name="mememate_logo">MemeMate Logo</string>
+    <string name="mememate_logo_text">mememate_logo_text</string>
+    <string name="change_your_username">Change your username</string>
+    <string name="user_name">Username</string>
+    <string name="meme">Meme</string>
+    <string name="name">Name</string>
+    <string name="url">URL</string>
+    <string name="follow_button">Follow button</string>
+</resources>
